@@ -9,3 +9,7 @@ Email: conftw4@gmail.com
 Discord: ConPlays#0001
 
 Twitter: @ConSaysStuff
+
+
+Maintainer @ https://induo.dev
+Moderator @ discord.gg/XGS & discord.gg/yell3x
