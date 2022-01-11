@@ -6,7 +6,9 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 
 Email: conftw4@gmail.com
 
-Discord: ConPlays#0001
+Twitter: [@ConSaysStuff](https://twitter.com/ConSaysStuff)
+
+Discord: [ConPlays#0001](https://discord.com/channels/@me)
 
 
 
