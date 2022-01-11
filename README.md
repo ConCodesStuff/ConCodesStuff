@@ -12,4 +12,4 @@ Twitter: @ConSaysStuff
 
 
 Maintainer @ https://induo.dev | 
-Moderator @ https://discord.gg/XGS & https://discord.gg/yell3x
+Moderator @ https://discord.gg/XGS | Admin @ https://discord.gg/yell3x
