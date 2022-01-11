@@ -11,7 +11,7 @@ Twitter: [@ConSaysStuff](https://twitter.com/ConSaysStuff)
 Discord: [ConPlays#0001](https://discord.com/users/576665068763086848)
 
 
-### Discord
+### What I do on Discord
 
 Maintainer @ https://induo.dev | 
 Moderator @ https://discord.gg/XGS | Admin @ https://discord.gg/yell3x
