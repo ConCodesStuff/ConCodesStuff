@@ -8,7 +8,7 @@ Email: conftw4@gmail.com
 
 Twitter: [@ConSaysStuff](https://twitter.com/ConSaysStuff)
 
-Discord: [ConPlays#0001](https://discord.com/channels/@me)
+Discord: [ConPlays#0001](https://discord.com/users/576665068763086848)
 
 
 
