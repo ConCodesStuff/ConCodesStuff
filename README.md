@@ -8,7 +8,7 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 
 **Twitter:** [@ConSaysStuff](https://twitter.com/ConSaysStuff)
 
-**Discord:** [ConPlays#0001](https://discord.com/users/576665068763086848)
+**Discord:** [![Discord Presence](https://lanyard.cnrad.dev/api/576665068763086848)](https://discord.com/users/576665068763086848)
 
 **Like what I'm doing? Consider supporting me!**
 It's not required but any donations are greatly appreciated! 
