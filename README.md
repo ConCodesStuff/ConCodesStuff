@@ -10,7 +10,7 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 
 **Discord:** [ConPlays#0001](https://discord.com/users/576665068763086848)
 
-**Discord Server:** [Concord](https://discord.gg/sXpza6a3aA)
+**Discord Server:** [Con's Cafe](https://discord.gg/sXpza6a3aA)
 
 Maintainer @ https://induo.dev | 
 Moderator @ https://discord.gg/XGS | Admin @ https://discord.gg/yell3x
