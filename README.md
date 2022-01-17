@@ -10,11 +10,13 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 
 ### How to reach me:
 
-**Email:** conftw4@gmail.com
+- **Email:** conftw4@gmail.com
 
-**Twitter:** [@ConSaysStuff](https://twitter.com/ConSaysStuff)
+- **Twitter:** [@ConSaysStuff](https://twitter.com/ConSaysStuff)
 
-**Discord:** [ConPlays#0001](https://discord.com/users/576665068763086848)
+- **Discord:** [ConPlays#0001](https://discord.com/users/576665068763086848)
+
+---
 
 
 **Like what I'm doing? Consider supporting me!**
