@@ -13,4 +13,5 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 **Like what I'm doing? Consider supporting me!**
 It's not required but any donations are greatly appreciated <3 
 https://ko-fi.com/conplays
+
 [Con's Cafe](https://discord.gg/sXpza6a3aA)
