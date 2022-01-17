@@ -11,7 +11,7 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 **Discord:** [ConPlays#0001](https://discord.com/users/576665068763086848)
 
 **Like what I'm doing? Consider supporting me!**
-It's not required but any donations are greatly appreciated <3 
+It's not required but any donations are greatly appreciated! 
 https://ko-fi.com/conplays
 
-[Con's Cafe](https://discord.gg/sXpza6a3aA)
+
