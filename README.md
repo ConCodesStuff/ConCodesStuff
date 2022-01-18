@@ -23,5 +23,5 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 It's not required but any donations are greatly appreciated! 
 https://ko-fi.com/conplays
 
-<iframe src="https://api.panleyent.com/webence/widget/small/?id=576665068763086848" width="300" height="400" frameborder="0">
+
 
