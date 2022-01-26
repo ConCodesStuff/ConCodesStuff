@@ -23,5 +23,7 @@ I'm Con, a hobbyist Web Dev, primarily using Javascript, and playing with Typesc
 It's not required but any donations are greatly appreciated! 
 https://ko-fi.com/conplays
 
+Join my discord server [here](https://https://discord.gg/Fe5a4AFpgZ)!
+
 
 
