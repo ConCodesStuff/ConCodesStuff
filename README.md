@@ -1,4 +1,4 @@
-# Hiya, I'm Con
+# Hiya, I'm Con. <img src="https://komarev.com/ghpvc/?username=ConCodesStuff" alt="" />
 
 I'm Con, a developer from the USA who has been programming since 2017. When I am not programming, you can find me on Discord, watching Netflix or playing games.
 
