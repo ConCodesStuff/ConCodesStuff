@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Con, a developer from the USA who has been programming since 2017. I like to do programming & gaming in my spare time.
+I'm Con, a developer from the USA who has been programming since 2017. When I am not programming, you can find me on Discord, Watching Netflix or Playing Games.
 
 
 
