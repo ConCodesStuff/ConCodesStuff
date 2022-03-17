@@ -18,7 +18,6 @@ I'm Con, a developer from the USA who has been programming since 2017. When I am
 </a>
 
 ### My Projects 
-- [Otter](https://bit.ly/otterbot) - An multi-purpose Discord Bot for all of your moderaton needs!
 - [AESoftware](https://github.com/AESoftwareIcous/AESoftwareIcous) - Just two people messing around with code, meme related software
 - Planet Zen - Coming Soon!
 ---
