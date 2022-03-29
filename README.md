@@ -1,7 +1,7 @@
 # Hiya, I'm Con. <img src="https://komarev.com/ghpvc/?username=ConCodesStuff" alt="" />
 
 
-I'm Con, a full-stack developer from the USA who has been programming since 2017. When I am not programming, you can find me on Discord, watching Netflix or playing games. I'm happiest hiking up mountains, reading books, coding and experiencing the sunny weather.
+I'm Con, a full-stack developer from the USA who has been programming since 2017. When I am not programming, you can find me on Discord, watching Netflix or playing games. I'm happiest hiking up mountains, reading books, programming and experiencing the sunny weather.
 
 - Avatar and OC Artwork by [Rayn](https://discord.com/users/473746775077945355)
 - Emotes by [Rayn](https://discord.com/users/473746775077945355), [Loliedoom](https://discord.com/users/305547653599461378) and [BirdWatcher](https://discord.com/users/514636836845649942)
