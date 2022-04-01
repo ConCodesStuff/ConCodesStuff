@@ -13,7 +13,7 @@ I'm Con, a full-stack developer from the USA who has been programming since 2017
 </a>
 
 ### How to reach me:
-- **Email:** conftw4@gmail.com
+- **Email:** con@xgstudios.net
 - **Twitter:** [@ConSaysStuff](https://twitter.com/ConSaysStuff)
 - **Discord:** [ConPlays#0001](https://discord.com/users/576665068763086848)
 
