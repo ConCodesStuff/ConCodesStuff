@@ -3,7 +3,7 @@
 
 I'm Con, a full-stack developer from the USA who has been programming since 2017. When I am not programming, you can find me on Discord, watching Netflix or playing videogames. 
 
-- Avatar and OC Artwork by [Rayn](https://discord.com/users/473746775077945355)
+- Avatar and OC Artwork by [Rayn](https://discord.com/users/473746775077945355) and [Mando](https://discord.com/users/785391314916605983)
 - Emotes by [Rayn](https://discord.com/users/473746775077945355), [Loliedoom](https://discord.com/users/305547653599461378) and [BirdWatcher](https://discord.com/users/514636836845649942)
 
 
