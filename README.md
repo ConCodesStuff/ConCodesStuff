@@ -15,6 +15,6 @@ I'm Con, a programmer from the USA. When I am not programming, you can find me o
 ### How to reach me:
 - **Email:** con@xgstudios.net
 - **Twitter:** [@ConSaysStuff](https://twitter.com/ConSaysStuff)
-- **Discord:** [ConPlays#0001](https://discord.com/users/576665068763086848)
+- **Discord:** [Concord](https://dsc.gg/concord)
 
 ---
