@@ -11,6 +11,6 @@ JavaScript programmer mainly focusing on Front-end Development.
 ### How to reach me:
 - **Email:** con@xgstudios.net
 - **Twitter:** [@ConSaysStuff](https://twitter.com/ConSaysStuff)
-- **Discord:** [Concord](https://dsc.gg/concord)
+- **Discord:** [Discord Server](https://dsc.gg/concord)
 
 ---
