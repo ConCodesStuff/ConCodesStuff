@@ -2,13 +2,21 @@
 
 JavaScript programmer mainly focusing on Front-end development.
 
-- Lead Developer @ http://aesoftware.xyz
-
 ---
-### How To Reach Me:
+
+### Contact/Support
+
+- Discord: ConPlays#0001
+- Discord Server: [https://discord.gg/synNU5uWM4](https://discord.gg/synNU5uWM4)
 - Email: con@xgstudios.net
-- Twitter: [@ConSaysStuff](https://twitter.com/consaysstuff)
-- [Join my discord server!](https://dsc.gg/concord)
+ 
+---
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,rust,nodejs,ts,react,html,css,git,docker,figma," />
+    <img src="https://skillicons.dev/icons?i=cloudflare,gcp,firebase,mongodb,ps,pr,ae,ai,discord,discordbots,linux,raspberrypi" />
+  </a>
+</p>
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36ST6B) 
+ 
 
