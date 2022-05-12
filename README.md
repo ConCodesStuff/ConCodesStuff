@@ -15,7 +15,7 @@ JavaScript programmer mainly focusing on Front-end development. I also love UI/U
 ### My Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,rust,nodejs,ts,c,cs,cpp,react,html,css,git,docker," />
+    <img src="https://skillicons.dev/icons?i=js,python,rust,nodejs,ts,c,cs,cpp,react,html,css,git,docker,nextjs" />
     <img src="https://skillicons.dev/icons?i=cloudflare,gcp,firebase,mongodb,ps,pr,ae,ai,figma,blender,discord,discordbots,linux,raspberrypi" />
   </a>
 </p>
