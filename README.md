@@ -4,7 +4,7 @@ JavaScript programmer mainly focusing on Front-end development. I also love UI/U
 
 ---
 
-### Contact/Support
+### Contact/Support:
 
 - Email: con@xgstudios.net
 - Discord Server: [https://discord.gg/synNU5uWM4](https://discord.gg/synNU5uWM4)
@@ -12,7 +12,7 @@ JavaScript programmer mainly focusing on Front-end development. I also love UI/U
  
 ---
 
-### My Skills
+### My Skills:
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,python,rust,nodejs,ts,react,html,css,git,docker,figma," />
