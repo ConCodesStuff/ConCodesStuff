@@ -2,6 +2,8 @@
 
 JavaScript programmer mainly focusing on Front-end development.
 
+- Lead Developer @ http://aesoftware.xyz
+
 ---
 ### How To Reach Me:
 - Email: con@xgstudios.net
