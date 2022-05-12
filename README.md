@@ -20,6 +20,6 @@ JavaScript programmer mainly focusing on Front-end development. I also love UI/U
   </a>
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36ST6B) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/conplays) 
  
 
