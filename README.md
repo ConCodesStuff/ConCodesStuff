@@ -1,6 +1,6 @@
 # Hiya, I'm Con. <img src="https://komarev.com/ghpvc/?username=ConCodesStuff" alt=""/>
 
-JavaScript programmer mainly focusing on Front-end development. I also love UI/UX design, videogames and otters! Currently working on @AESoftwareIocus
+JavaScript programmer mainly focusing on Front-end development. I also love UI/UX design, videogames and otters!
 
 ---
 
