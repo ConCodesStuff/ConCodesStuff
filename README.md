@@ -5,7 +5,7 @@
 - Currently leading development at [Otter Development](https://github.com/otter-dev) and [AE Software](http://aesoftware.xyz).
 - On the side, I'm into Community Management on [Discord](https://discord.com).
 
-### Reach Me: 
+## Reach Me: 
 - Feel free to DM me on [Discord](https://discord.com/users/576665068763086848;) (`ConPlays#0001`, ID: `576665068763086848`).
 - If you prefer to email me, you can send an inquiry to con@xgstudios.net.
  
