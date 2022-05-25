@@ -1,7 +1,7 @@
 # Hiya, I'm Con. <img src="https://komarev.com/ghpvc/?username=ConCodesStuff" alt=""/>
 
 - Javascript programmer focusing on Frontend development
-- TypeScript/Node.JS proficient
+- Javascript/TypeScript/Node.JS proficient
 - Familiar with Python, Rust and C/C++
 - Currently leading development at [Otter Development](https://github.com/Otter-Dev) & [AESoftware](https://github.com/AESoftwareIocus)
 
