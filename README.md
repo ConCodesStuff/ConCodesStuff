@@ -1,19 +1,14 @@
 # Hiya, I'm Con. <img src="https://komarev.com/ghpvc/?username=ConCodesStuff" alt=""/>
 
-- Javascript programmer focusing on Frontend development
-- Javascript/TypeScript/Node.JS proficient
-- Familiar with Python, Rust and C/C++
-- Currently leading development at [Otter Development](https://github.com/Otter-Dev) & [AESoftware](https://github.com/AESoftwareIocus)
-
----
+- JavaScript Programmer focusing on Frontend Development
+- [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org)/[Node.JS](https://nodejs.org) proficient
+- Currently leading development at [Otter Development](https://github.com/otter-dev) and [AE Software](http://aesoftware.xyz)
+- On the side, I'm into Community Management on [Discord](https://discord.com)
 
 ### Reach Me: 
-
-- Email: con@xgstudios.net
-- Discord Server: [https://discord.gg/synNU5uWM4](https://discord.gg/synNU5uWM4)
-- Twitter: [@ConSaysStuff](https://twitter.com/@ConSaysStuff)
+- Feel free to DM me on [Discord](https://discord.com) (`ConPlays#0001`, ID: `576665068763086848`)
+- If you prefer to email me, you can send an inquiry to con@xgstudios.net
  
----
 
 
  
