@@ -1,10 +1,13 @@
 # Hiya, I'm Con. <img src="https://komarev.com/ghpvc/?username=ConCodesStuff" alt=""/>
 
-JavaScript programmer mainly focusing on Front-end development. I also love UI/UX design, videogames and otters!
+- Javascript programmer focusing on Frontend development
+- TypeScript/Node.JS proficient
+- Familiar with Python, Rust and C/C++
+- Currently leading development at [Otter Development](https://github.com/Otter-Dev) & [AESoftware](https://github.com/AESoftwareIocus)
 
 ---
 
-### Contact/Support:
+### Reach Me: 
 
 - Email: con@xgstudios.net
 - Discord Server: [https://discord.gg/synNU5uWM4](https://discord.gg/synNU5uWM4)
@@ -12,13 +15,6 @@ JavaScript programmer mainly focusing on Front-end development. I also love UI/U
  
 ---
 
-### My Skills:
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,rust,mongodb,prisma,docker,figma,pr,discord,discordbots,linux" />
-  </a>
-</p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/conplays) 
  
 
