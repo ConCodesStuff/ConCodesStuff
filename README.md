@@ -1,4 +1,4 @@
-# Hiya, I'm Con. 
+# Hiya, I'm Con. <img src="https://komarev.com/ghpvc/?username=ConCodesStuff" alt=""/>
 
 - Hobbyist Programmer focusing on Front-end Development.
 - Proficient with [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org), [Node.JS](https://nodejs.org), [Go](https://go.dev/) and [Python](https://python.org).
